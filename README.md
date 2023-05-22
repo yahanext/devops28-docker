@@ -43,7 +43,7 @@ Hey, Netology
 </html>
 ```
 
-Опубликуйте созданный fork в своём репозитории и предоставьте ответ в виде ссылки на [ttps://hub.docker.com/r/yahanext/yahanext](https://hub.docker.com/r/yahanext/yahanext).
+Опубликуйте созданный fork в своём репозитории и предоставьте ответ в виде ссылки на [https://hub.docker.com/r/yahanext/yahanext](https://hub.docker.com/r/yahanext/yahanext).
 
 ## Задача 2
 
